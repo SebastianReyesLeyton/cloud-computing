@@ -1,0 +1,7 @@
+2026-08-24 08:15:20 INFO user=ana action=login ip=192.168.1.10
+2026-08-24 08:16:02 ERROR user=juan action=login ip=192.168.1.15
+2026-08-24 08:16:18 INFO user=ana action=download ip=192.168.1.10
+2026-08-24 08:17:33 WARN user=carlos action=login ip=192.168.1.22
+2026-08-24 08:18:04 ERROR user=juan action=upload ip=192.168.1.15
+2026-08-24 08:19:27 INFO user=ana action=logout ip=192.168.1.10
+2026-08-24 08:20:11 ERROR user=juan action=login ip=192.168.1.15
